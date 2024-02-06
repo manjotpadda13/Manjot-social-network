@@ -47,7 +47,7 @@ The following animation shows the POST and DELETE routes for a user’s friend l
 
 In addition to this, your walkthrough video should show the POST and DELETE routes for reactions to thoughts being tested in Insomnia.
 
-## Installion 
+## Installation
 
     - npm install express
     - npm install mongoose
@@ -55,5 +55,7 @@ In addition to this, your walkthrough video should show the POST and DELETE rout
 
 Start the server
      -npm start
+
+## Walk through video 
 
 
